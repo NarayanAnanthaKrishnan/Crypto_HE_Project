@@ -109,7 +109,7 @@ EncryptedHealthFHE/
 │   └── evaluation.py             # Metrics & evaluation functions
 │
 ├── 📂 notebooks/
-│   └── 01_experiments.ipynb      # Main experimental notebook
+│   └── main.ipynb      # Main experimental notebook
 │
 ├── 📄 requirements.txt           # Python dependencies
 ├── 📄 README.md                  # This file
